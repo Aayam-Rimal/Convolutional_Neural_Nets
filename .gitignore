@@ -1,0 +1,10 @@
+/data
+/logs
+/tmp
+*.log
+*.tmp   
+best_model.pth
+*.ckpt
+*.h5
+*.pt
+*.pth   
