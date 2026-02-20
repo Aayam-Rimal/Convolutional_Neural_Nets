@@ -8,3 +8,7 @@ best_model.pth
 *.h5
 *.pt
 *.pth   
+src/data
+src/logs
+src/tmp
+src/*.log   
