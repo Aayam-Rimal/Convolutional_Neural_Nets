@@ -1,4 +1,4 @@
-// filepath: /home/aayam/CNN/README.md
+
 # CNN Image Classification
 
 A comprehensive deep learning project implementing Convolutional Neural Networks (CNNs) for image classification tasks using PyTorch. This repository includes custom CNN architectures and transfer learning with ResNet18.
